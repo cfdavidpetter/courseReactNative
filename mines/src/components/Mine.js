@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
     },
     coreMine:{
         height: 14,
-        widt: 14,
+        width: 14,
         borderRadius: 10,
         backgroundColor: 'black',
         alignItems: 'center',

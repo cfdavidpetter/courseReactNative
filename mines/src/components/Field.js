@@ -53,6 +53,6 @@ const styles = StyleSheet.create({
     },
     exploded:{
         backgroundColor: 'red',
-        borderColor: 'red   '
+        borderColor: 'red'
     }
 });
